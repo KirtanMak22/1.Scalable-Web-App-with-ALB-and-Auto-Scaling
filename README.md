@@ -1,15 +1,15 @@
 # 1.Scalable-Web-App-with-ALB-and-Auto-Scaling
 
-•	ALB = Application Load Balancer
+~ ALB = Application Load Balancer
 
-•	Purpose: Handle high traffic automatically without crashing.
+~ Purpose: Handle high traffic automatically without crashing.
 
-•	AWS Services:
+~ AWS Services:
 
-•	Amazon EC2
-•	Application Load Balancer
-•	Auto Scaling Group
-•	Security Groups
+          Amazon EC2
+          Application Load Balancer
+          Auto Scaling Group
+          Security Groups
 
 Instances:
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/579ee08a-9eb3-4393-86e6-4939d715652b" />
