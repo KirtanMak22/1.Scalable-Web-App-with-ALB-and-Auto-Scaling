@@ -1,3 +1,4 @@
+
 # 1.Scalable-Web-App-with-ALB-and-Auto-Scaling
 
 •	ALB = Application Load Balancer
@@ -30,4 +31,5 @@ Output:
 <img width="542" height="92" alt="image" src="https://github.com/user-attachments/assets/84227345-ea07-41ec-9c1b-729fc6b617a9" />
 <img width="542" height="99" alt="image" src="https://github.com/user-attachments/assets/537eae49-161c-4652-aae1-877ce530cfb3" />
 <img width="543" height="94" alt="image" src="https://github.com/user-attachments/assets/534358e6-99ec-4f20-9bad-04356a4053f7" />
+<img width="691" height="164" alt="1  output" src="https://github.com/user-attachments/assets/e9b0501b-7002-418b-b0ca-c46186d45d7d" />
 
