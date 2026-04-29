@@ -1,4 +1,3 @@
-
 # 1.Scalable-Web-App-with-ALB-and-Auto-Scaling
 
 •	ALB = Application Load Balancer
@@ -13,23 +12,21 @@
 •	Security Groups
 
 Instances:
-<img width="602" height="288" alt="image" src="https://github.com/user-attachments/assets/c5787800-d3fe-4624-a313-7019de33312d" />
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/579ee08a-9eb3-4393-86e6-4939d715652b" />
 
 Auto scaling groups:
-<img width="602" height="103" alt="image" src="https://github.com/user-attachments/assets/daea4df1-ac39-44f7-a5f3-78aa8304456c" />
+<img width="1610" height="275" alt="2" src="https://github.com/user-attachments/assets/2f9629b4-827e-4eed-8357-a4ba3b12bc16" />
 
 Target groups:
-<img width="602" height="89" alt="image" src="https://github.com/user-attachments/assets/49d24ef1-1f91-441d-91b0-bd0cf924320d" />
+<img width="1616" height="240" alt="3" src="https://github.com/user-attachments/assets/303188f5-dd32-4d39-9a99-2a80e3e389ff" />
 
 2 new instances:
-<img width="602" height="123" alt="image" src="https://github.com/user-attachments/assets/ff71db60-2e62-44fc-bc02-b5ed4adc4762" />
+<img width="1591" height="325" alt="4" src="https://github.com/user-attachments/assets/268d79a2-dc53-4210-85ad-3f304fc6ba15" />
 
 Auto scaling groups activity:
-<img width="602" height="148" alt="image" src="https://github.com/user-attachments/assets/30e066db-e9c2-4fd0-8e02-826cf0598aa9" />
+<img width="1556" height="382" alt="5" src="https://github.com/user-attachments/assets/79034024-35b8-4b77-a500-4785a7e3c58d" />
 
 Output: 
-<img width="542" height="92" alt="image" src="https://github.com/user-attachments/assets/84227345-ea07-41ec-9c1b-729fc6b617a9" />
-<img width="542" height="99" alt="image" src="https://github.com/user-attachments/assets/537eae49-161c-4652-aae1-877ce530cfb3" />
-<img width="543" height="94" alt="image" src="https://github.com/user-attachments/assets/534358e6-99ec-4f20-9bad-04356a4053f7" />
-<img width="691" height="164" alt="1  output" src="https://github.com/user-attachments/assets/e9b0501b-7002-418b-b0ca-c46186d45d7d" />
-
+<img width="691" height="164" alt="8" src="https://github.com/user-attachments/assets/1b858fb6-cd1a-4c07-bec5-4e9675cf7e7b" />
+<img width="701" height="168" alt="7" src="https://github.com/user-attachments/assets/65778fef-11f7-4441-a3a9-73c9a32c5540" />
+<img width="706" height="160" alt="6" src="https://github.com/user-attachments/assets/4bcc2518-4757-4e97-b19f-f2ad1096e08e" />
